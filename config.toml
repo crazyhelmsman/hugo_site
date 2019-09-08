@@ -1,4 +1,4 @@
-baseurl         = "http://crazyhelmsman.github.io"
+baseurl         = "http://crazyhelmsman.github.io/"
 theme           = "hugo-casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
