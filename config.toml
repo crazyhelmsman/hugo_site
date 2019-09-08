@@ -66,4 +66,5 @@ publishDir      = "crazyhelmsman.github.io"
   url = "https://google.com/"
   weight = 95
 
-
+[taxonomies]
+  author = "babaroga"
